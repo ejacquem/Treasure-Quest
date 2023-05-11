@@ -1,0 +1,29 @@
+# Format d'une carte.
+# Chaque ligne du fichier représente une case de la carte.
+# 
+# La table de correspondance suivante est utilisée. Le format n'est pas sensible à la casse.
+#
+# | Symbole | Type de case |
+# |---------|--------------|
+# | S       | Sable        |
+# | P       | Prairie      |
+# | F       | Forêts       |
+# | R       | Rochers      |
+# | X       | Eau          |
+
+   FFFFF     
+  FFFFFFFFFF 
+  RRRSSSRS   
+ RSRSSSSRSSS 
+ RSRRSSSSRSSS
+ RRSSSSSRRRR 
+   SSSSSSSS  
+  FFXFFFF    
+ FFFXFFXFFF  
+FFFFXXXXFFFF 
+SSFXPXXPXFSS 
+SSSXXXXXXSSS 
+SSXXXXXXXXSS 
+  XXX  XXX   
+ RRR    RRR  
+RRRR    RRRR 
