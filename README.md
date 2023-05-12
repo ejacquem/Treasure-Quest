@@ -9,7 +9,7 @@ This is a school project and the GUI was given.
 
 
 
-# What a game looks like
+## What a game looks like
 
 
 <p align="center">
